@@ -1,0 +1,5 @@
+>>> print("Hi from interpreter!")
+>>> 2 + 3
+>>> "Python" + " is fun"
+>>> True and False
+>>> not True
